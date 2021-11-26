@@ -12,3 +12,5 @@ https://jamoore4579.github.io/Run-Buddy-Repo/
 
 ## Contribution
 Made by Jason Moore
+
+# Run Buddy inc.
