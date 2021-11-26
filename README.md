@@ -8,8 +8,7 @@ A website that offers fitness training services
 * CSS
 
 ## Website
-
+https://jamoore4579.github.io/Run-Buddy-Repo/
 
 ## Contribution
-
 Made by Jason Moore
